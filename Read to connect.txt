@@ -1,0 +1,34 @@
+_________________________________
+
+Website connect
+_________________________________
+
+goto
+
+D:\Install FIles\Xammp\htdocs
+
+paste folder C183059
+
+to view goto - localhost/C183059/index.php
+
+_________________________________
+
+Database connect
+_________________________________
+
+
+localhot/phpmyadmin
+
+creat new "opuonline"
+
+select "opuonline"
+
+import
+
+choose file
+
+open 
+
+select 
+
+go
